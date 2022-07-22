@@ -1,0 +1,1093 @@
+[
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Objectifs:",
+    "body": "",
+    "_id": "62dac3658b6cae16bc3e415e",
+    "_parentId": "62dabfe08b6cae16bc3e4158",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p><strong>Mesurer une tension continue à l’aide d’un voltmètre numérique.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Mesurer l’intensité du courant à l’aide d’un ampèremètre numérique.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>Mesurer une tension continue à l’aide d’un oscilloscope.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Sujets",
+    "body": "",
+    "_id": "62dac4b08b6cae16bc3e4161",
+    "_parentId": "62dac4b08b6cae16bc3e4160",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p><span style=\"color:#FF8C00\"><strong>Composants électriques et courant électrique</strong></span></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"color:#FF8C00\"><strong>Tension et intensité du courant</strong></span></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"color:#FF8C00\"><strong>Groupement des composants électriques</strong></span></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"color:#FF8C00\"><strong>Usage d’un voltmètre numérique</strong></span></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"color:#FF8C00\"><strong>Usage d’un ampèremètre numérique</strong></span></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><span style=\"color:#FF8C00\"><strong>Usage d’un oscilloscope</strong></span></p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>La tension et l’intensité du courant électrique sont deux grandeurs caractéristiques du circuit électrique. Dans ce chapitre, nous allons rappeler les lois des circuits électriques et nous apprendrons à mesurer la tension électrique entre deux points d’un circuit électrique.</strong></p>",
+    "_id": "62dac60a8b6cae16bc3e4164",
+    "_parentId": "62dac5fe8b6cae16bc3e4163",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62dac6128b6cae16bc3e4165",
+    "_parentId": "62dac5fe8b6cae16bc3e4163",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/a6624051f762900f2d35c7853634065b41c4ef31.jpg",
+      "small": "course/fr/assets/a6624051f762900f2d35c7853634065b41c4ef31.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF8C00\"><strong>Voilà une liste de quelques composants électriques et leurs symboles, essayez tout d'abord de les rappler...</strong></span></p>",
+    "_id": "62daca638b6cae16bc3e416a",
+    "_parentId": "62daca588b6cae16bc3e4169",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "fig.a",
+      "large": "course/fr/assets/91fab09bd6bbceb6432845c39a6a7a1354f63d2c.png",
+      "small": "course/fr/assets/91fab09bd6bbceb6432845c39a6a7a1354f63d2c.png",
+      "attribution": "fig (a)",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "sortable",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62daca6b8b6cae16bc3e416b",
+    "_parentId": "62daca588b6cae16bc3e4169",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "overlay",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Réordonnez les termes suivants, comme ils apparaissent dans la figure (a)",
+    "_items": [
+      {
+        "text": "Pile",
+        "_startPosition": 0
+      },
+      {
+        "text": "Générateur",
+        "_startPosition": 0
+      },
+      {
+        "text": "Fil de connexion",
+        "_startPosition": 0
+      },
+      {
+        "text": "Lampe",
+        "_startPosition": 0
+      },
+      {
+        "text": "Interrupteur ouvert",
+        "_startPosition": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Bravo!</p>",
+      "_incorrect": {
+        "final": "<p>Désolé!</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#FF8C00\"><strong>Encore, voilà une autre liste de quelques composants électriques et leurs symboles</strong></span></p>",
+    "_id": "62dacf7a8b6cae16bc3e4171",
+    "_parentId": "62dacf7a8b6cae16bc3e4170",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/84d6a9b513e8acfa9f2aaddc7d42c35b074bca25.png",
+      "small": "course/fr/assets/84d6a9b513e8acfa9f2aaddc7d42c35b074bca25.png",
+      "attribution": "fig (b)",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "sortable",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62dacf7a8b6cae16bc3e4174",
+    "_parentId": "62dacf7a8b6cae16bc3e4170",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Réordonnez les termes suivants, comme ils apparaissent dans la figure (b)",
+    "_items": [
+      {
+        "text": "Interrupteur fermé",
+        "_startPosition": 0
+      },
+      {
+        "text": "Voltmètre/Ampèremètre",
+        "_startPosition": 0
+      },
+      {
+        "text": "Moteur",
+        "_startPosition": 0
+      },
+      {
+        "text": "Conducteur homique",
+        "_startPosition": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>Bravo!</p>",
+      "_incorrect": {
+        "final": "<p>Désolé!</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "1- COMPOSANTS ÉLECTRIQUE ET CIRCUIT ÉLECTRIQUE",
+    "body": "",
+    "_id": "62dad6738b6cae16bc3e4187",
+    "_parentId": "62dad66c8b6cae16bc3e4186",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#696969\"><strong>1.1- Symboles de quelques composants électriques</strong></span></p>",
+    "_id": "62dadb598b6cae16bc3e4189",
+    "_parentId": "62dadb528b6cae16bc3e4188",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><span style=\"color:#696969\"><strong>1.2- Circuit électrique</strong></span></p>",
+    "_id": "62dadbfc8b6cae16bc3e418c",
+    "_parentId": "62dadbfc8b6cae16bc3e418b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62dae5138b6cae16bc3e418e",
+    "_parentId": "62dae50e8b6cae16bc3e418d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://docs.google.com/presentation/d/e/2PACX-1vQ1kpwE8mA0FoB0kFF0LJPhHKx0F9_i0lOwNXTvw9xfeiIGatsSdwXKqTzE4q6NvA/embed?start=false&loop=false&delayms=3000",
+    "_initialWidth": 800,
+    "_initialHeight": 488,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "2- TENSION ET COURANT",
+    "body": "",
+    "_id": "62daf5d2846bb91b2078999f",
+    "_parentId": "62daf5d2846bb91b2078999e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62daf661846bb91b207899a1",
+    "_parentId": "62daf659846bb91b207899a0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://docs.google.com/presentation/d/e/2PACX-1vTiEKyU2FBgV0upVov4QN4gbQGMJQgyJyDxEJYQMESCndatQrEJrK3r_Y0eztDdSw/embed?start=true&loop=false&delayms=3000",
+    "_initialWidth": 800,
+    "_initialHeight": 488,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "3- GROUPEMENT DES COMPOSANTS ÉLECTRIQUES",
+    "body": "",
+    "_id": "62daf7fa846bb91b207899a4",
+    "_parentId": "62daf7fa846bb91b207899a3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62daf949846bb91b207899a7",
+    "_parentId": "62daf949846bb91b207899a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "https://docs.google.com/presentation/d/e/2PACX-1vTRTybHU8UuPiVQ6fTYE9mVKTke1a57Bdnt4v5o3Sg8CxdmOFPHaSbFmAY-zF6X9w/embed?start=true&loop=false&delayms=3000",
+    "_initialWidth": 800,
+    "_initialHeight": 488,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Pratiquez avec la simulation</strong></p><p><strong>ce que vouz voyez dans la figure (c)</strong></p>",
+    "_id": "62dafd51846bb91b207899b7",
+    "_parentId": "62dafd44846bb91b207899b6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/579660090eb633eff17c8be69045ab54f92bbe52.jpg",
+      "small": "course/fr/assets/579660090eb633eff17c8be69045ab54f92bbe52.jpg",
+      "attribution": "fig (c)",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "iframe",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62dafd74846bb91b207899ba",
+    "_parentId": "62dafd74846bb91b207899b9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_setCompletionOn": "inview",
+    "instruction": "",
+    "_src": "assets/circuit-construction-kit.html",
+    "_initialWidth": 800,
+    "_initialHeight": 488,
+    "_dimensionDelegateSelector": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q3",
+    "displayTitle": "",
+    "body": "<p><strong>Si les 2 piles de 1.5 V sont branchées en dérivation, Quelle la tension mesurée par le voltmètre dans ce cas?</strong></p>",
+    "_id": "62db00ee846bb91b207899be",
+    "_parentId": "62db00e0846bb91b207899bd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "3 V",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "1.5",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "-3 V",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 3,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Bravo !</p>",
+      "_incorrect": {
+        "final": "<p>Désolé !</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "Résumé",
+    "body": "",
+    "_id": "62db03df846bb91b207899c2",
+    "_parentId": "62db03df846bb91b207899c1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p><strong>Le voltmètre et l’oscilloscope mesurent la tension électrique entre deux points d’un circuit électrique quand ils sont branchés à ces deux points.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p><strong>L’ampèremètre, branché en série dans un circuit, mesure l’intensité du courant électrique qui le traverse.</strong></p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  }
+]

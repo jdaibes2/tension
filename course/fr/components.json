@@ -330,10 +330,10 @@
         "_startPosition": 0
       }
     ],
-    "_attempts": 3,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
@@ -475,10 +475,10 @@
         "_startPosition": 0
       }
     ],
-    "_attempts": 3,
+    "_attempts": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
-    "_shouldDisplayAttempts": true,
+    "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
     "_questionWeight": 1,
@@ -850,7 +850,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p><strong>Pratiquez avec la simulation</strong></p><p><strong>ce que vouz voyez dans la figure (c)</strong></p>",
+    "body": "<p><strong>Pratiquez avec la simulation </strong></p><p><strong>ce que vouz voyez dans la figure (c)</strong></p><p><a href=\"#62dd21710b67841d5c2f89dc\">Cliquez içi pour l'aide technique</a></p>",
     "_id": "62dafd51846bb91b207899b7",
     "_parentId": "62dafd44846bb91b207899b6",
     "_type": "component",
@@ -1089,5 +1089,74 @@
         "alt": ""
       }
     ]
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62dd21710b67841d5c2f89dc",
+    "_parentId": "62dd216c0b67841d5c2f89db",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/fr/assets/40fe8e20fa6c2aee8b57db015870e983a3d8c3f3.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/fr/assets/3605b0917d7cb61ae9d61c4576d17666f1b62ddc.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": true,
+    "_playsinline": true,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   }
 ]
